@@ -1,0 +1,12 @@
+ {
+  "name": "Babu Chat",
+  "short_name": "Babu Chat",
+  "start_url": "/Babu-chat/",
+  "display": "standalone",
+  "background_color": "#0c1317",
+  "theme_color": "#1f2c33",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+ }
