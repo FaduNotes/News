@@ -1,16 +1,16 @@
-{
+ {
   "name": "Babu Chat",
   "short_name": "BabuChat",
-  "start_url": ".",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#667eea",
-  "description": "Private chat app for couples. Made with love by Babu.",
+  "background_color": "#0c1317",
+  "theme_color": "#1f2c33",
   "icons": [
     {
       "src": "./icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
-}
+ }
